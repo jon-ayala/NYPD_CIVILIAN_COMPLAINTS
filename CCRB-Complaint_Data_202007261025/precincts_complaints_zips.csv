@@ -1,0 +1,362 @@
+command_at_incident,command_fullname,zipcode,complaint_id
+075 PCT,075 Precinct,11208,1364
+046 PCT,046 Precinct,10457,825
+044 PCT,044 Precinct,10452,763
+NARCBBN,Narcotics Borough Brooklyn North,,746
+079 PCT,079 Precinct,11216,737
+067 PCT,067 Precinct,11226,710
+073 PCT,073 Precinct,11212,688
+047 PCT,047 Precinct,10466,687
+077 PCT,077 Precinct,11213,671
+NARCBBS,Narcotics Borough Brooklyn South,,592
+WARRSEC,Warrant Section,,582
+NARCBBX,Narcotics Borough Bronx,,554
+101 PCT,101 Precinct,11691,536
+120 PCT,120 Precinct,10301,514
+052 PCT,052 Precinct,10467,501
+PBBX,Patrol Borough Bronx,,500
+113 PCT,113 Precinct,11434,499
+070 PCT,070 Precinct,11230,496
+040 PCT,040 Precinct,10454,477
+048 PCT,048 Precinct,10457,476
+083 PCT,083 Precinct,11237,456
+NARCBQN,Narcotics Borough Queens North,,453
+071 PCT,071 Precinct,11225,424
+069 PCT,069 Precinct,11236,418
+081 PCT,081 Precinct,11221,410
+043 PCT,043 Precinct,10473,394
+041 PCT,041 Precinct,10459,391
+PSA 7,Police Service Area 7,,379
+032 PCT,032 Precinct,10030,352
+042 PCT,042 Precinct,10451,335
+023 PCT,023 Precinct,10029,326
+025 PCT,025 Precinct,10035,325
+103 PCT,103 Precinct,11432,324
+105 PCT,105 Precinct,11428,309
+NARCBMN,Narcotics Borough Manhattan North,,308
+PBBN,Patrol Borough Brooklyn North,,304
+NARCBSI,Narcotics Borough Staten Island,,286
+049 PCT,049 Precinct,10461,274
+034 PCT,034 Precinct,10033,270
+121 PCT,121 Precinct,10314,252
+090 PCT,090 Precinct,11211,244
+PSA 5,Police Service Area 5,,239
+PSA 3,Police Service Area 3,,236
+PSA 1,Police Service Area 1,,230
+072 PCT,072 Precinct,11232,229
+PSA 8,Police Service Area 8,,228
+033 PCT,033 Precinct,10032,226
+PSA 2,Police Service Area 2,,226
+060 PCT,060 Precinct,11224,213
+028 PCT,028 Precinct,10027,202
+063 PCT,063 Precinct,11210,197
+030 PCT,030 Precinct,10031,193
+110 PCT,110 Precinct,11373,192
+050 PCT,050 Precinct,10463,184
+102 PCT,102 Precinct,11418,182
+115 PCT,115 Precinct,11372,182
+104 PCT,104 Precinct,11385,170
+MTN PCT,Midtown North Precinct,,153
+009 PCT,009 Precinct,10003,148
+GANG BN,Gang Squad Brooklyn North,,147
+010 PCT,010 Precinct,10011,146
+062 PCT,062 Precinct,11214,144
+PSA 6,Police Service Area 6,,142
+122 PCT,122 Precinct,10306,140
+024 PCT,024 Precinct,10025,139
+INT CIS,Criminal Intelligence Section,,138
+068 PCT,068 Precinct,11220,136
+007 PCT,007 Precinct,10002,135
+114 PCT,114 Precinct,11103,133
+045 PCT,045 Precinct,10465,129
+MTS PCT,Midtown South Precinct,,129
+006 PCT,006 Precinct,10014,123
+109 PCT,109 Precinct,11354,121
+084 PCT,084 Precinct,11201,120
+PSA 9,Police Service Area 9,,119
+088 PCT,088 Precinct,11205,115
+PBBX AC,,,115
+PSA 4,Police Service Area 4,,115
+106 PCT,106 Precinct,11417,112
+107 PCT,107 Precinct,11365,109
+061 PCT,061 Precinct,11223,108
+PBBN AC,,,106
+GANG Q,Gang Squad Queens,,106
+112 PCT,112 Precinct,11375,105
+001 PCT,001 Precinct,10013,102
+GANG BX,Gang Squad Bronx,,95
+019 PCT,019 Precinct,10065,95
+123 PCT,123 Precinct,10307,94
+PBMN,Patrol Borough Manhattan North,,93
+108 PCT,108 Precinct,11101,92
+MN IRT,Manhattan Impact Response Team,,92
+PBBS SU,Patrol Borough Brooklyn South Specialized Units,,91
+PBQ/S,Patrol Borough Queens South,,88
+NARCBMS,Narcotics Borough Manhattan South,,81
+100 PCT,100 Precinct,11693,81
+005 PCT,005 Precinct,10013,81
+SRG,SRG,,78
+076 PCT,076 Precinct,11231,75
+PBBS,Patrol Borough Brooklyn South,,73
+094 PCT,094 Precinct,11222,73
+HBM IRT,Housing Borough Manhattan Impact Response Team,,71
+GANG BS,Gang Squad Brooklyn South,,71
+TB DT30,Transit Bureau District 30,,67
+NARCBQS,Narcotics Borough Queens South,,67
+020 PCT,020 Precinct,10024,67
+PBMN TF,,,66
+P A T U,,,66
+PBMS AC,,,65
+013 PCT,013 Precinct,10010,65
+026 PCT,026 Precinct,10027,61
+BX IRT,Bronx Impact Response Team,,59
+TB DT33,Transit Bureau District 33,,58
+PBBN SU,Patrol Borough Brooklyn North Specialized Units,,57
+PBMS,Patrol Borough Manhattan South,,53
+H SP OP,Housing Special Operations Section,,52
+TB DT04,Transit Bureau District 4,,51
+017 PCT,017 Precinct,10022,50
+TB,Transit Bureau,,50
+078 PCT,078 Precinct,11217,46
+PBBS AC,,,43
+TB DT03,Transit Bureau District 3,,41
+TB DT02,Transit Bureau District 2,,40
+HBK RT,,,38
+047 DET,047 Detective Squad,,38
+GANG M,,,38
+GANG MN,Gang Squad Manhattan North,,37
+BN IRT,,,37
+PBBX TF,,,35
+PBBS TF,,,35
+TB M/TF,Transit Bureau Manhattan Task Force,,34
+066 PCT,066 Precinct,11204,34
+TB DT32,Transit Bureau District 32,,34
+PBBX SU,Patrol Borough Bronx Specialized Units,,33
+HBK IRT,Housing Borough Brooklyn Impact Response Team,,31
+NAR DIV,Narcotics Division,,30
+PBSI,Patrol Borough Staten Island,,30
+HWY 02,Highway Unit 02,,30
+TB DT01,Transit Bureau District 1,,29
+BX/S-ND,,,28
+HWY 01,Highway Unit 01,,28
+HWY 03,Highway Unit 03,,27
+SOD SRG,,,26
+PBQ/N,Patrol Borough Queens North,,26
+O C C B,Organized Crime Control Bureau,,26
+HBM RT,Housing Borough Manhattan Response Team,,26
+PBQS SU,Patrol Borough Queens South Specialized Units,,25
+SRG 2,Strategic Response Group 2,,24
+PBBN TF,,,24
+PBSI TF,,,23
+ND SI I,,,21
+111 PCT,111 Precinct,11361,21
+113 DET,113 Detective Squad,,21
+BX/Q IM,,,20
+ND EH I,,,20
+TB DT12,Transit Bureau District 12,,20
+PBMN AC,,,19
+SRG 1,Strategic Response Group 1,,19
+PBBX SC,,,19
+TB DT20,Transit Bureau District 20,,18
+CPK PCT,Central Park Precinct,,18
+TRF/MTF,,,17
+083 DET,083 Detective Squad,,17
+CW T TF,Transportation Bureau Citywide Traffic,,17
+TB DT34,Transit Bureau District 34,,17
+077 DET,077 Detective Squad,,17
+GANG QS,Gang Squad Queens South,,16
+PBMN SC,,,16
+ND BXSI,,,16
+MAN CT,Manhattan Court Section,,16
+105 DET,105 Detective Squad,,16
+ESS 07,Emergency Service Squad 07,,15
+DB BXSV,,,15
+PBMS TF,,,15
+PBMS SU,Patrol Borough Manhattan South Specialized Units,,15
+ND CH I,,,14
+PBBN SC,,,14
+075 DET,075 Detective Squad,,14
+SATNOPS,,,14
+073 DET,073 Detective Squad,,14
+QS IRT,,,14
+034 DET,034 Detective Squad,,13
+BS IRT,,,13
+ND SEQI,,,13
+DB GLD,Detective Bureau Grand Larceny Division,,12
+SRG 3,Strategic Response Group 3,,12
+071 DET,071 Detective Squad,,12
+E S U,Emergency Service Unit,,12
+081 DET,081 Detective Squad,,12
+TB Q/TF,,,12
+043 DET,043 Detective Squad,,12
+PBQN AC,,,12
+DBMN OP,Detective Borough Manhattan North Operations,,12
+PA UPTU,Uniformed Promotions Training Unit,,11
+PBMN SU,Patrol Borough Manhattan North Specialized Units,,11
+GVSD Z1,Gun Violence Suppression Division Zone 01,,11
+TB BXTF,,,11
+H BX/Q,Housing Bronx/Queens,,11
+M/S-ND,,,11
+BKLN CT,Brooklyn Court Section,,10
+AUTO CD,,,10
+088 DET,088 Detective Squad,,10
+046 DET,046 Detective Squad,,10
+JUV CRM,Juvenile Crime Section,,10
+GANG SI,Gang Squad Staten Island,,10
+TB ATU,Transit Bureau Anti-Terrorism Unit,,9
+PBQS AC,,,9
+TB DT11,Transit Bureau District 11,,9
+067 DET,067 Detective Squad,,9
+B/S-WND,,,9
+JT T/F,Joint Terrorism Task Force,,8
+079 DET,079 Detective Squad,,8
+SS DIV,School Safety Division,,8
+PBSI AC,,,8
+Q/N-ND,,,8
+042 DET,042 Detective Squad,,8
+HWY DST,Transportation Bureau Highway District,,8
+VE BSSI,,,8
+QB SSZN,School Safety Queens Brooklyn Staten Island Zone,,8
+SRG 5,Strategic Response Group 5,,8
+HWY 05,Highway Unit 05,,8
+I.A.B.,Internal Affairs Bureau,,8
+HBX/QIM,,,8
+063 DET,063 Detective Squad,,8
+ND BXCI,,,8
+045 DET,045 Detective Squad,,8
+MTS DET,Midtown South Detective Squad,,8
+TB BKTF,Transit Bureau Borough Brooklyn Task Force,,8
+013 DET,013 Detective Squad,,8
+ESS 05,Emergency Service Squad 05,,8
+DB HATE,Detective Bureau Hate Crimes Task Force,,8
+040 DET,040 Detective Squad,,7
+PBQN SU,Patrol Borough Queens North Specialized Units,,7
+PBQNT/F,,,7
+ESS 03,Emergency Service Squad 03,,7
+DB CEIS,Organized Crime Investigation Division,,7
+SOD T/U,,,7
+M E L D,Military and Extended Leave Desk,,7
+GVS DIV,,,7
+SIHU,,,7
+B/S-END,,,6
+090 DET,090 Detective Squad,,6
+094 DET,094 Detective Squad,,6
+TD DT33,,,6
+QS GANG,,,6
+ESS 01,Emergency Service Squad 01,,6
+041 DET,041 Detective Squad,,6
+VED BX,,,6
+PBQST/F,,,6
+123 DET,123 Detective Squad,,6
+VICE ED,,,5
+VED ZN1,,,5
+MTN DET,Midtown North Detective Squad,,5
+DB BXHM,Detective Borough Bronx Homicide Squad,,5
+ESS 08,Emergency Service Squad 08,,5
+LDS TRN,Leadership Training Section,,5
+120 DET,120 Detective Squad,,5
+TD DT12,,,5
+TD DT11,,,5
+TB DT23,Transit Bureau District 23,,5
+TB SOD,Transit Bureau Special Operations District,,5
+HBXQ RT,,,5
+REC TNG,Recruit Training Section,,5
+P C O,Police Commissioner Office,,5
+050 DET,050 Detective Squad,,4
+020 DET,020 Detective Squad,,4
+030 DET,030 Detective Squad,,4
+007 DET,007 Detective Squad,,4
+WTC CMD,World Trade Center Command,,4
+100 DET,100 Detective Squad,,4
+INT OAS,Intelligence Operations and Analysis Section,,4
+Q SVS,Queens Special Victims Squad,,4
+DB SVD,Detective Bureau Special Victims Division,,4
+QS NARC,,,4
+SI IRT,Staten Island Impact Response Team,,4
+DBBX OP,,,4
+M/S-DND,,,4
+ESS 02,Emergency Service Squad 02,,4
+BUS UT,Bus Unit,,4
+TD DT02,,,4
+TD DT32,,,4
+109 DET,109 Detective Squad,,4
+VED ZN2,,,4
+052 DET,052 Detective Squad,,3
+PBMS SC,,,3
+INT UOU,INT UOU,,3
+LIC DIV,License Division,,3
+ESU CAN,Emergency Service Unit Canine Team,,3
+GVSD Z2,Gun Violence Suppression Division Zone 02,,3
+MC/SQD,Major Case Squad,,3
+DB FCTF,Detective Bureau Financial Crimes Task Force,,3
+ND Q/NI,,,3
+PBSI SU,Patrol Borough Staten Island Specialized Units,,3
+GANG QN,Gang Squad Queens North,,3
+TB H/O,,,3
+VED Q,,,3
+D-E T/F,Drug Enforcement Task Force,,3
+VE BK/N,,,3
+010 DET,010 Detective Squad,,3
+C R C,Critical Response Command,,3
+SP FRDS,Special Fraud Squad,,3
+BX/N-ND,,,3
+HQ SEC,Headquarters Security,,2
+HWY 04,Highway Unit 04,,2
+INT EPU,INT EPU,,2
+PBBS SC,,,2
+044 DET,044 Detective Squad,,2
+TB CAN,Transit Bureau Canine Unit,,2
+PB EMD,Patrol Bureau Employee Management Division,,2
+QNS CT,Queens Court Section,,2
+QNROBSQ,Queens Robbery Squad,,2
+MED DIV,Medical Division,,2
+102 DET,102 Detective Squad,,2
+T.A.R.U,Technical Assistance and Response Unit,,2
+001 DET,001 Detective Squad,,2
+CENROBB,,,2
+ESS 04,Emergency Service Squad 04,,2
+DB CRD,Detective Bureau Central Robbery Division,,2
+C C SQD,C C SQD,,2
+FOR INV,,,2
+DB MSVS,,,2
+D C P I,Deputy Commissioner of Public Information,,2
+DBMN,Detective Borough Manhattan North,,2
+114 DET,114 Detective Squad,,2
+060 DET,060 Detective Squad,,2
+ESS 09,Emergency Service Squad 09,,2
+107 DET,107 Detective Squad,,2
+FLT SVC,Fleet Services Division,,2
+BKROBSQ,Brooklyn Robbery Squad,,2
+023 DET,023 Detective Squad,,1
+TB C/AN,Transit Bureau Crime Analysis,,1
+CA SECT,,,1
+SRG 4,Strategic Response Group 4,,1
+BX CT,Bronx Court Section,,1
+048 DET,048 Detective Squad,,1
+BK SVS,Detective Bureau Brooklyn Special Victims Squad,,1
+BK IMP,,,1
+COMMSEC,,,1
+084 DET,084 Detective Squad,,1
+A P DIV,Applicant Processing Division,,1
+122 DET,122 Detective Squad,,1
+006 DET,006 Detective Squad,,1
+TD DT01,,,1
+POL ACD,Police Academy Payroll and Roll Call,,1
+CPK DET,Central Park Detective Squad,,1
+026 DET,026 Detective Squad,,1
+F.T.S.,Firearms and Tactics Section,,1
+ESS 06,Emergency Service Squad 06,,1
+DBQS OP,Detective Borough Queens South Operations,,1
+DBM ZN2,Detective Borough Manhattan Zone 2,,1
+068 DET,068 Detective Squad,,1
+ND NMI,,,1
+070 DET,070 Detective Squad,,1
+O C I D,,,1
+OMAP,OMAP,,1
+DB BX,Detective Borough Bronx,,1
+DB BSVS,,,1
+032 DET,032 Detective Squad,,1
+PBQS SC,,,1
+DA QNS,DA QNS,,1
+028 DET,028 Detective Squad,,1
+GANG DV,Gang Division,,1
